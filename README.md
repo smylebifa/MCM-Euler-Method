@@ -1,1 +1,1 @@
-# MCM-Euler-Method
+# Euler-Method (MCM)
